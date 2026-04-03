@@ -15,7 +15,7 @@ void draw() {
     
     line(width, height-(i*sepy), i*sepx, height);  //vertice inferior derecho
     
-    line(width-(i*sepx), 0,width, i*sepy);  //vertice superior izquierdo
+    line(0, i*sepy, width-(i*sepx), 0);  //vertice superior izquierdo
   }
   
 }
