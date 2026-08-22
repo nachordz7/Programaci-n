@@ -1,3 +1,7 @@
+/* Agregar imagen = sketch 
+sketch --> añadir archivo y seleccionar img.jpg
+listo
+*/
 
 PImage img;
 void setup() {
